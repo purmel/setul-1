@@ -30,7 +30,7 @@ namespace setul_1
             //ex16();
             //ex17();
             //ex18();
-            ex19();
+            //ex19();
         }
 
         private static void ex19()
